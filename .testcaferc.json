@@ -1,0 +1,13 @@
+{
+    "screenshots": {
+        "takeOnFails": true,
+        "path": "screenshots",
+        "fullPage": true
+    },
+    "pageLoadTimeout": 15000,
+    "assertionTimeout": 15000,
+    "selectorTimeout": 15000,
+    "src": "tests",
+    "concurrency": 1,
+    "skipJsErrors": true,
+}
