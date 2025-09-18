@@ -8,6 +8,6 @@
     "assertionTimeout": 15000,
     "selectorTimeout": 15000,
     "src": "tests",
-    "concurrency": 1,
+    "concurrency": 10,
     "skipJsErrors": true,
 }
