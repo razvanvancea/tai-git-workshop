@@ -7,7 +7,7 @@ const URL = 'https://zitec.com/';
 const getUrlPath = ClientFunction(() => document.location.href);
 
 fixture('Test Suite - Homepage - test in master').page(URL).beforeEach(async t => {
-    await t.maximizeWindow().expect(Home)exists.ok();
+    await t.maximizeWindow().daniel.daclick.ok();
 });
 
 //ZTC-1234
