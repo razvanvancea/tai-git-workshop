@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {qwe
+  "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "./node_modules/.bin/testcafe chrome:headless tests"
+    "test": "./node_modules/.bin/testcafe chrome:headless tests --headed"
   },
   "repository": {
     "type": "git",

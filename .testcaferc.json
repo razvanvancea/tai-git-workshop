@@ -2,11 +2,11 @@
     "screenshots": {
         "takeOnFails": true,
         "path": "screenshots",
-        "fullPage": truqwee
-    },qwe
+        "fullPage": true
+    },
     "pageLoadTimeout": 15000,
     "assertionTimeout": 15000,
-    "selectorTimeout": 30000,
+    "selectorTimeout": 2000,
     "concurrency": 10000000000,
     "skipJsErrors": false,
 }
