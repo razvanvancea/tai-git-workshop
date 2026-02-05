@@ -13,7 +13,7 @@
     "type": "git",
     "url": "ssh://git@git.zitec.ro:6246/razvan.vancea/git-workshop.git"
   },
-  "author": "",
+  "author": "marius",
   "license": "ISC",
   "devDependencies": {
     "testcafe": "^1.14.2"
