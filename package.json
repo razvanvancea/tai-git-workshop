@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "directories": {qwe
-    "test": "tests"
-  },
+    "test": "tests" am adaugat ceva},
   "scripts": {
     "test": "./node_modules/.bin/testcafe chrome:headless tests"
   },
