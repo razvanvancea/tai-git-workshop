@@ -3,7 +3,7 @@
         "takeOnFails": true,
         "path": "screenshots",
         "fullPage": truqwee
-    },
+    },qwe
     "pageLoadTimeout": 15000,
     "assertionTimeout": 15000,
     "selectorTimeout": 30000,
