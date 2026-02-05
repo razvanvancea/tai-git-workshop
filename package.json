@@ -17,5 +17,9 @@
   "license": "ISC",
   "devDependencies": {
     "testcafe": "^1.14.2"
-  }
+  },
+ {
+ "author": "aura_s",
+"test_a ":"aa_s_test"
+ }
 }
