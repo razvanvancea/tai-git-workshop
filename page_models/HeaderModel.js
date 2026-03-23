@@ -5,5 +5,4 @@ class HeaderModel {
         this.roLanguageBtn = Selector('li.ro');
         }
 }
-
 export default new HeaderModel();
